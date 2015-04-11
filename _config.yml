@@ -1,0 +1,22 @@
+# Site settings
+title: Matrix Interiorz
+email: design@matrixinteriorz.com
+url: http://junaidmasoodi.github.com/matrix
+description: "We design objects and spaces"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Matrix Interiorz
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
